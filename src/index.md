@@ -22,7 +22,7 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
-I am a second-year PhD student working on the verification of the higher-order automated reasoning system [Leo-III](https://github.com/leoprover/Leo-III) in the interactive theorem prover [Lambdapi](https://github.com/Deducteam/lambdapi). My PhD is a joint degree between the *University of Greifswald*, where I am supervised by [Alexander Steen](https://www.alexandersteen.de), and the *Université Paris-Saclay*, where I am supervised by [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/talks.html) and am part of the [Deducteam](https://deducteam.gitlabpages.inria.fr).
+I am a second-year PhD student working on the verification of the higher-order automated reasoning system [Leo-III](https://github.com/leoprover/Leo-III) in the interactive theorem prover [Lambdapi](https://github.com/Deducteam/lambdapi). My PhD is a joint degree between the *University of Greifswald*, where I am supervised by [Alexander Steen](https://www.alexandersteen.de), and the *Université Paris-Saclay*, where I am supervised by [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/talks.html) and am part of [Deducteam](https://deducteam.gitlabpages.inria.fr).
 
 My main research interests are automated reasoning in higher-order logic and its formal verification, which is the focus of my ongoing PhD project. I also have a background in biology and participate in interdisciplinary research within the [AI-Biome](https://artifarm.hochschule-stralsund.de/index.php/projekte/ai-biome/) project.
 
