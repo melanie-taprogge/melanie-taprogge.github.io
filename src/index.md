@@ -3,14 +3,14 @@ title: Melanie Taprogge's webpage
 author: Melanie Taprogge
 shortbio: PhD student in computer science
 description-meta: PhD student in computer science
-og-url: https://melanietaprogge.github.io
+og-url: https://melanie-taprogge.github.io
 location: Deducteam, LMF, ENS Paris-Saclay
 email: melanie.taprogge@stud.uni-greifswald.de
 clickable-email: true
 picture: img/me.jpg
 picture-round: true
 side-by-side: true
-og-picture: https://melanietaprogge.github.io/img/me.jpg
+og-picture: https://melanie-taprogge.github.io/img/me.jpg
 orcid: 0009-0008-1906-6831
 dblp: https://dblp.org/pid/357/0643.html
 scholar: https://scholar.google.com/citations?hl=en&user=DmcuD8sAAAAJ
